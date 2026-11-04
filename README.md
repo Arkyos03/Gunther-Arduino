@@ -98,8 +98,6 @@ sur le PC : relance simplement le téléversement.
 **La carte n'apparaît pas dans le gestionnaire de cartes** : vérifie que le lien des préférences est copié
 en entier (il doit finir par `.json`), puis ferme et rouvre l'IDE.
 
-Pour toute autre question, contacte Arkyos03 ou l'association : air-esiea@et.esiea.fr
-
 ---
 
 <div align="center">
