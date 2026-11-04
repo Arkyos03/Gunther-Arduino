@@ -55,7 +55,7 @@ Tu as deux façons de faire, et tu peux mélanger les deux dans le même program
 
 **Le mode simplifié**, pour aller vite : tu inclus `Gunther.h` et chaque action tient en une ligne.
 La lecture des capteurs, la détection du décollage et de l'apogée, l'enregistrement sur la carte SD :
-tout est déjà écrit et testé. C'est ce qu'on conseille pour un premier vol.
+tout est déjà écrit et testé.
 
 ```cpp
 #include <Gunther.h>
